@@ -8,6 +8,6 @@ def Cambuchi(
 	display = 'boy'  
 	color = (229, 155, 125) 
 	languages = [python, html]
-	favorites = ['D&D', 'Chess', 'Cooking']
+	favorites = ['D&D', 'VR', 'Cooking']
 ):
 ```
