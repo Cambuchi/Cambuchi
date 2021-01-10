@@ -7,7 +7,8 @@ def Cambuchi(
 	height = cm(175),  
 	display = 'boy'  
 	color = (229, 155, 125) 
-	languages = [python, html]
+	languages = {'python': 'beginner, 
+		     'html': 'beginner'}
 	favorites = ['D&D', 'VR', 'Cooking']
 ):
 ```
