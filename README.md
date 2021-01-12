@@ -1,16 +1,17 @@
 # ✌️
 
 ``` python
-def Cambuchi(  
-	species = 'human',  
-	position = 'Oregon',  
-	height = cm(175),  
-	display = 'male',  
-	color = (229, 155, 125), 
-	languages = {'python': 'learning', 
-		     'html': 'learning'},  
-	favorites = ['D&D', 'VR', 'Cooking']  
-):
-
-# TODO: Get a job related to computer programming.
+class Cambuchi:
+    def __init__(self, h = 'human', m = 'male'):
+        self.species = h
+        self.display = m
+    position = 'California, USA'
+    height = cm(175)
+    color = (229, 155, 125)
+    languages = {'python': 'learning',
+                 'webdev': 'learning'}
+    favorites = ['D&D', 'VR', 'Cooking']
+    
+# TODO: Get a job relating to computer programming.
+    
 ```
