@@ -2,13 +2,13 @@
 
 ``` python
 def Cambuchi(  
-	species = 'human',  
-	position = 'Oregon',  
-	height = cm(175),  
-	display = 'male',  
-	color = (229, 155, 125), 
-	languages = {'python': 'beginner', 
-		     'html': 'beginner'},  
+	species =   'human',  
+	position =  'Oregon',  
+	height =    cm(175),  
+	display =   'male',  
+	color =     (229, 155, 125), 
+	languages = {'python': 'learning', 
+		     'html': 'learning'},  
 	favorites = ['D&D', 'VR', 'Cooking']  
 ):
 
