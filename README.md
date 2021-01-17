@@ -11,7 +11,9 @@ class Cambuchi:
     languages = {'python': 'learning',
                  'webdev': 'learning'}
     favorites = ['D&D', 'VR', 'Cooking']
-    
+
+cam_nguyen = Cambuchi()
+
 # TODO: Get a job relating to computer programming.
     
 ```
