@@ -14,6 +14,6 @@ class Cambuchi:
 
 cam_nguyen = Cambuchi()
 
-# TODO: Get a job relating to computer programming.
+# TODO: Get a job related to computer programming.
     
 ```
